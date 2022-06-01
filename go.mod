@@ -38,7 +38,7 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/testcontainers/testcontainers-go v0.12.0
 	github.com/twitchtv/twirp v8.1.1+incompatible
-	github.com/urfave/cli/v2 v2.4.0
+	github.com/urfave/cli/v2 v2.8.1
 	go.uber.org/zap v1.21.0
 	golang.org/x/exp v0.0.0-20220321124402-2d6d886f8a82
 	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a // indirect
@@ -163,6 +163,7 @@ require (
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
+	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	github.com/yashtewari/glob-intersection v0.1.0 // indirect
 	github.com/zclconf/go-cty v1.10.0 // indirect
 	github.com/zclconf/go-cty-yaml v1.0.2 // indirect
